@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Horizental Heading of HTML AND CSS:</h1>
+<table border="2" bgcolor="yellow" >
+<tr>
+<th>EmpId</th>
+<th>EmpName</th>
+<th>EmpEmail</th>
+<th>EmpNumber</th>
+</tr>
+<tr>
+<td>MI210402498</th>
+<td>somashekhar</th>
+<td>somu@123</th>
+<td>7026400728</td>
+</tr>
+</table>
+<h2> Vertical Heading by HTML AND CSS</H2>
+<table border="3">
+<tr>
+<th>EmpId</th>
+<td>MI210402498</td>
+</tr>
+<tr>
+<th>EmpName</th>
+<td>somashekhar</td>
+</tr>
+<tr>
+<th>EmpEmail</th>
+<td>somu@123</td>
+</tr>
+<tr>
+<th>EmpNumber</th>
+<td>7026400728</td>
+</tr>
+</table>
